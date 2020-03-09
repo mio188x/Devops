@@ -2,3 +2,7 @@ toto je skvela jahoda
 cauuu
 
 serus bratm
+
+uz ideme cez SSH!
+
+Phasellus ac metus nulla
