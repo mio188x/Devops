@@ -5,4 +5,4 @@ serus bratm
 
 uz ideme cez SSH!
 
-Phasellus ac metus nulla
+winmerge test
