@@ -8,3 +8,4 @@ edit v localnom repo
 
 druhy edit bazmeg
 edit suboru
+funguje ssh?
