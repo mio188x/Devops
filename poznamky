@@ -24,7 +24,7 @@ git remote set-url origin URL
 
 git branch meno               # vytvori novu localnu branch
 git checkout meno             # zmeni sa lokalna branch
-
+git checkout -b               # vytvori a hned sa prepne na novu branch
                               # vizualizacia branch
 git log --oneline --decorate --graph --all
 git merge meno                # merge custom branch do master branch
