@@ -1,2 +1,3 @@
 toto je skvela jahoda
 cauuu
+uz ideme cez SSH!
