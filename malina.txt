@@ -7,3 +7,4 @@ Nulla iaculis nisi risus, nec facilisis lectus ornare nec. Duis quis convallis e
 edit v localnom repo
 
 druhy edit bazmeg
+edit suboru
