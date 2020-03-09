@@ -5,9 +5,9 @@ wall:
 bit.ly/2VYuffo
 
 
-git clone
-git fetch
-git status
-git add *
-git commit -m "tralala"
-git push
+git clone                     # stiahne projekt do local repo
+git fetch                     # hlada zmeny medzi master a local repo
+git status                    # aktualny status localneho repo 
+git add *                     # prida dany subor/adresar/vsetko "*" git aby sledoval zmeny
+git commit -m "tralala"       # commitne zmeny
+git push                      # pushne zmeny do master repo
