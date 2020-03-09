@@ -20,3 +20,15 @@ file .gitignore               # ktore subory/adresare sa maju vynechat z add
 
 git remote -v
 git remote set-url origin URL 
+
+
+git branch meno               # vytvori novu localnu branch
+git checkout meno             # zmeni sa lokalna branch
+
+                              # vizualizacia branch
+git log --oneline --decorate --graph --all
+git merge meno                # merge custom branch do master branch
+git branch -d meno            # zmaze lokalnu branch
+
+
+
