@@ -9,3 +9,4 @@ edit v localnom repo
 druhy edit bazmeg
 edit suboru
 funguje ssh?
+© 2020 GitHub, Inc.
