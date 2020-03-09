@@ -3,3 +3,11 @@ Materiály:
 www.cde.sk/miska
 wall:
 bit.ly/2VYuffo
+
+
+git clone
+git fetch
+git status
+git add *
+git commit -m "tralala"
+git push
