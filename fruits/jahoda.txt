@@ -4,7 +4,6 @@ cauuu
 12345678900000
 
 serus bratm
-
 uz ideme cez SSH!
 
 winmerge test
