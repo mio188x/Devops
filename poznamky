@@ -11,3 +11,9 @@ git status                    # aktualny status localneho repo
 git add *                     # prida dany subor/adresar/vsetko "*" git aby sledoval zmeny
 git commit -m "tralala"       # commitne zmeny
 git push                      # pushne zmeny do master repo
+
+file .gitignore               # ktore subory/adresare sa maju vynechat z add
+   cat .gitignore
+      *.exe
+      *.bin
+      output
