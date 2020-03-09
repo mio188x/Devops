@@ -17,3 +17,6 @@ file .gitignore               # ktore subory/adresare sa maju vynechat z add
       *.exe
       *.bin
       output
+
+git remote -v
+git remote set-url origin URL 
