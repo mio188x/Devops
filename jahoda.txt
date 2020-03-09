@@ -1,3 +1,5 @@
 toto je skvela jahoda
-cauuu
+
 uz ideme cez SSH!
+
+Phasellus ac metus nulla
