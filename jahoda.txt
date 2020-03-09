@@ -1,8 +1,12 @@
-toto je jahoda
+toto je jahoda ## toto je pozmeneny riadok##
 cauuu
+
+1234567890
 
 serus bratm
 
 uz ideme cez SSH!
 
 winmerge test
+
+caute
