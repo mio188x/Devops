@@ -4,6 +4,8 @@ www.cde.sk/miska
 wall:
 bit.ly/2VYuffo
 
+GIT Cheatsheet
+https://www.atlassian.com/git/tutorials/atlassian-git-cheatsheet
 
 git clone                     # stiahne projekt do local repo
 git fetch                     # hlada zmeny medzi master a local repo
