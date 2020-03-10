@@ -36,3 +36,21 @@ git branch -d meno            # zmaze lokalnu branch
 
 
 
+Git init
+Inicializuje prázdny git projekt (alebo priamo v existujucom projekte)
+Ak chceme nalinkovať tento nový projekt na remote, musíme použiť
+git remote add <name> <url>
+Napr. git remote add origin https://…..
+
+Git rebase - zdroj:
+https://git-scm.com/book/en/v2/Git-Branching-Rebasing
+With the rebase command, you can take all the changes that were committed on one branch and replay them on a different branch.
+Task na rebase:
+Vytvorte si nový branch rebase-test
+Urobte nejakú zmenu v rebase-test, add, commit.
+Prepnite sa na master, urobte zmenu (podla moznosti inde nech nemusite riesit konflikty), add commit
+Spravte diff
+git diff master rebase-test
+Prepnite sa naspat na rebase-test a teraz chceme nove zmeny z mastra dostat do branche rebase-test (chceme napr. mat aktualnu branchu). Napiseme teda:
+git rebase master
+
