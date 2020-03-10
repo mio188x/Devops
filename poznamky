@@ -7,6 +7,8 @@ bit.ly/2VYuffo
 GIT Cheatsheet
 https://www.atlassian.com/git/tutorials/atlassian-git-cheatsheet
 
+https://datasift.github.io/gitflow/IntroducingGitFlow.html
+
 git clone                     # stiahne projekt do local repo
 git fetch                     # hlada zmeny medzi master a local repo
 git status                    # aktualny status localneho repo 
