@@ -54,3 +54,7 @@ git diff master rebase-test
 Prepnite sa naspat na rebase-test a teraz chceme nove zmeny z mastra dostat do branche rebase-test (chceme napr. mat aktualnu branchu). Napiseme teda:
 git rebase master
 
+commit squashing
+git reset -soft HEAD~3
+git commit -m
+git push -f origin branch_name
